@@ -1,1 +1,1 @@
-Here there are some projects I realized while studying SQL and making practice. The first one is about a business query, and it is based on a YouTube video. The second one is related to chemistry, my field of study, and was about Anabolic Steroids.  
+Here there are some projects I realized while studying SQL and making practice. The first one concerns a business query, and it is based on a YouTube video. The second one is related to chemistry, my field of study, and is about Anabolic Steroids.  
